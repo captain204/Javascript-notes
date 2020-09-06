@@ -1,8 +1,3 @@
-function b()
-{
-    var myVar;
-    console.log(myVar);
-}
 
 function a()
 {
@@ -10,6 +5,14 @@ function a()
     console.log(myVar); 
     b();
 }
+
+function b()
+{
+    var myVar;
+    console.log(myVar);
+}
+
+
 var myVar = 1;
 console.log(myVar);
 a();
