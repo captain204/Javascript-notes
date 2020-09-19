@@ -10,7 +10,8 @@ var a = 2, b = 3, c = 4;
 a = b = c;
 
 /* Results is four because  the associativity of the assighment operator
-
+   is from right to left
+*/
 
 console.log(a);
 console.log(b);
