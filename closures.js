@@ -7,6 +7,6 @@ function greet(whattosay){
 
 sayhi = greet('Hello ');
 
-sayhi('Judith');
+sayhi('Fatima Faitj');
 
 

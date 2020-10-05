@@ -19,7 +19,7 @@ greet(Tony);
 greet(
     {firstname:'Mary',
     lastname:'Doe'
-});
+});//You can pass object literals directly to functions
 
 Tony.address2 = {
         street:'Kings Palace Hotel',

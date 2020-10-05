@@ -5,11 +5,12 @@ var
     //Middlename
     middlename, 
     
-    //example 'en', 'es
+    //example 'en', 'es'
     language
 
 
-person ={
+person =
+{
     //firstname required
     firstname:'Chioma',
 

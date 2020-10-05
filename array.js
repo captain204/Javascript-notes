@@ -11,6 +11,7 @@ var arr = [
     },
     "Hello"
 ];
+
 console.log(arr);
 
 arr[3](arr[2].name);
